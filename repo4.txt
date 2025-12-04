@@ -1,2 +1,3 @@
 datum. Det är idag den: 2025/12/04
-Tiden är 09:56
+Tiden är 09:56 då har vi fixat den 3e repository samma datum, men 
+så klart har tiden ändrat sig och är nu 10:11 så nu ska jag få in allt I github
